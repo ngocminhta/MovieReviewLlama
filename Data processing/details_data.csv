@@ -1,0 +1,321 @@
+,movie_name,movie_duration,movie_genre,movie_director,movie_release_year
+0,Nhà tù Shawshank,142.0,Drama,Frank Darabont,1994.0
+1,Bố Già,175.0,Crime,Francis Ford Coppola,1972.0
+2,Kỵ Sĩ Bóng Đêm,152.0,Action,Christopher Nolan,2008.0
+3,Bố Già Phần II,202.0,Crime,Francis Ford Coppola,1974.0
+4,12 Người Đàn Ông Giận Dữ,96.0,Crime,Sidney Lumet,1957.0
+5,Bản Danh Sách Của Schindler,195.0,Biography,Steven Spielberg,1993.0
+6,Chúa Tể Của Những Chiếc Nhẫn: Sự Quay Trở Lại Của Nhà Vua,201.0,Action,Peter Jackson,2003.0
+7,Chuyện Tào Lao,154.0,Crime,Quentin Tarantino,1994.0
+8,Chúa Tể Của Những Chiếc Nhẫn: Những Người Bạn Của Nhẫn,178.0,Action,Peter Jackson,2001.0
+9,"Thiện, Ác, Tà",161.0,Adventure,Sergio Leone,1966.0
+10,Cuộc Đời Forrest Gump,142.0,Drama,Robert Zemeckis,1994.0
+11,Sàn Đấu Sinh Tử,139.0,Drama,David Fincher,1999.0
+12,Chúa Tể Của Những Chiếc Nhẫn: Hai Tòa Tháp,179.0,Action,Peter Jackson,2002.0
+13,Kẻ Đánh Cắp Giấc Mơ,148.0,Action,Christopher Nolan,2010.0
+14,Chiến Tranh Giữa Các Vì Sao Tập 5: Đế Chế Phản Công,124.0,Action,Irvin Kershner,1980.0
+15,Ma Trận,136.0,Action,Lana Wachowski,1999.0
+16,Chiến Hữu,145.0,Biography,Martin Scorsese,1990.0
+17,Bay Trên Tổ Chim Cúc Cu,133.0,Drama,Milos Forman,1975.0
+18,7 Tội Lỗi Chết Người,127.0,Crime,David Fincher,1995.0
+19,Cuộc Sống Tươi Đẹp,130.0,Drama,Frank Capra,1946.0
+20,Bảy Võ Sĩ Đạo,207.0,Action,Akira Kurosawa,1954.0
+21,Hố Đen Tử Thần,169.0,Adventure,Christopher Nolan,2014.0
+22,Sự Im Lặng Của Bầy Cừu,118.0,Crime,Jonathan Demme,1991.0
+23,Giải Cứu Binh Nhì Ryan,169.0,Drama,Steven Spielberg,1998.0
+24,Thành Phố Của Chúa,130.0,Crime,Fernando Meirelles,2002.0
+25,Cuộc Sống Tươi Đẹp,116.0,Comedy,Roberto Benigni,1997.0
+26,Dặm Xanh,189.0,Crime,Frank Darabont,1999.0
+27,Người Nhện: Du Hành Vũ Trụ Nhện,140.0,Animation,Joaquim Dos Santos,2023.0
+28,Chiến Tranh Giữa Các Vì Sao Tập 4: Niềm Hi Vọng Mới,121.0,Action,George Lucas,1977.0
+29,Kẻ Hủy Diệt 2: Ngày Phán Xét,137.0,Action,James Cameron,1991.0
+30,Trở Về Tương Lai,116.0,Adventure,Robert Zemeckis,1985.0
+31,Vùng Đất Linh Hồn,125.0,Animation,Hayao Miyazaki,2001.0
+32,Nghệ Sĩ Dương Cầm,150.0,Biography,Roman Polanski,2002.0
+33,Tâm Thần Hoảng Loạn,109.0,Horror,Alfred Hitchcock,1960.0
+34,Ký Sinh Trùng,132.0,Drama,Bong Joon Ho,2019.0
+35,Võ Sĩ Giác Đấu,155.0,Action,Ridley Scott,2000.0
+36,Vua Sư Tử,88.0,Animation,Roger Allers,1994.0
+37,Léon: Sát Thủ Chuyên Nghiệp,110.0,Action,Luc Besson,1994.0
+38,Lịch Sử Mĩ Thế Kỉ X,119.0,Crime,Tony Kaye,1998.0
+39,Điệp Vụ Boston,151.0,Crime,Martin Scorsese,2006.0
+40,Tay Trống Cự Phách,106.0,Drama,Damien Chazelle,2014.0
+41,Ảo Thuật Gia Đấu Trí,130.0,Drama,Christopher Nolan,2006.0
+42,Mộ Đom Đóm,89.0,Animation,Isao Takahata,1988.0
+43,Nghi Phạm Vô Hình,106.0,Crime,Bryan Singer,1995.0
+44,Seppuku,133.0,Action,Masaki Kobayashi,1962.0
+45,Chuyện Tình Thế Chiến,102.0,Drama,Michael Curtiz,1942.0
+46,Những Kẻ Bên Lề,112.0,Biography,Olivier Nakache,2011.0
+47,Thời Đại Tân Kỳ,87.0,Comedy,Charles Chaplin,1936.0
+48,Rạp Chiếu Bóng Thiên Đường,155.0,Drama,Giuseppe Tornatore,1988.0
+49,Thưở Ấy Miền Viễn Tây,166.0,Western,Sergio Leone,1968.0
+50,Vụ Án Mạng Nhà Bên,112.0,Mystery,Alfred Hitchcock,1954.0
+51,Quái Vật Không Gian,117.0,Horror,Ridley Scott,1979.0
+52,Ánh Sáng Đô Thị,87.0,Comedy,Charles Chaplin,1931.0
+53,Lời Sấm Truyền,147.0,Drama,Francis Ford Coppola,1979.0
+54,Hành Trình Django,165.0,Drama,Quentin Tarantino,2012.0
+55,Kẻ Mất Trí Nhớ,113.0,Mystery,Christopher Nolan,2000.0
+56,Indiana Jones Và Chiếc Rương Thánh Tích,115.0,Action,Steven Spielberg,1981.0
+57,Rô-bốt Biết Yêu,98.0,Animation,Andrew Stanton,2008.0
+58,Khoảnh Khắc Cuộc Đời,137.0,Drama,Florian Henckel von Donnersmarck,2006.0
+59,Sunset Blvd.,110.0,Drama,Billy Wilder,1950.0
+60,Đường Tới Vinh Quang,88.0,Drama,Stanley Kubrick,1957.0
+61,Oppenheimer,180.0,Biography,Christopher Nolan,2023.0
+62,Avengers: Cuộc Chiến Vô Cực,149.0,Action,Anthony Russo,2018.0
+63,Ngôi Nhà Ma,146.0,Drama,Stanley Kubrick,1980.0
+64,Người Nhện: Vũ Trụ Mới,117.0,Animation,Bob Persichetti,2018.0
+65,Nhân Chứng Buộc Tội,116.0,Crime,Billy Wilder,1957.0
+66,Nhà Độc Tài Vĩ Đại,125.0,Comedy,Charles Chaplin,1940.0
+67,Quái Vật Không Gian 2,137.0,Action,James Cameron,1986.0
+68,Định Mệnh,153.0,Adventure,Quentin Tarantino,2009.0
+69,Kỵ Sĩ Bóng Đêm Trỗi Dậy,164.0,Action,Christopher Nolan,2012.0
+70,Vẻ Đẹp Mỹ,122.0,Drama,Sam Mendes,1999.0
+71,Tiến Sĩ Strangelove,95.0,Comedy,Stanley Kubrick,1964.0
+72,Oldboy: Báo Thù,120.0,Action,Park Chan-wook,2003.0
+73,Coco: Hội Ngộ Diệu Kỳ,105.0,Animation,Lee Unkrich,2017.0
+74,Sự Đố Kỵ Của Thiên Tài,160.0,Biography,Milos Forman,1984.0
+75,Câu Chuyện Đồ Chơi,81.0,Animation,John Lasseter,1995.0
+76,Trận Chiến Tàu Ngầm,149.0,Drama,Wolfgang Petersen,1981.0
+77,Trái Tim Dũng Cảm,178.0,Biography,Mel Gibson,1995.0
+78,Avengers: Hồi Kết,181.0,Action,Anthony Russo,2019.0
+79,Joker,122.0,Crime,Todd Phillips,2019.0
+80,Công Chúa Mononoke,134.0,Animation,Hayao Miyazaki,1997.0
+81,Chàng Will Tốt Bụng,126.0,Drama,Gus Van Sant,1997.0
+82,Tên Cậu Là Gì?,106.0,Animation,Makoto Shinkai,2016.0
+83,Nước Mỹ Một Thời,229.0,Crime,Sergio Leone,1984.0
+84,Tengoku to jigoku,143.0,Crime,Akira Kurosawa,1963.0
+85,3 Chàng Ngốc,170.0,Comedy,Rajkumar Hirani,2009.0
+86,Hát Dưới Mưa,103.0,Comedy,Stanley Donen,1952.0
+87,Capharnaüm,126.0,Drama,Nadine Labaki,2018.0
+88,Nguyện Cầu Cho Một Giấc Mơ,102.0,Drama,Darren Aronofsky,2000.0
+89,Đến Mà Xem,142.0,Drama,Elem Klimov,1985.0
+90,Câu Chuyện Đồ Chơi 3,103.0,Animation,Lee Unkrich,2010.0
+91,Chiến Tranh Giữa Các Vì Sao Tập 6: Sự Quay Trở Lại Của Jedi,131.0,Action,Richard Marquand,1983.0
+92,Tia Nắng Vĩnh Cửu Của Tâm Hồn Tinh Khiết,108.0,Drama,Michel Gondry,2004.0
+93,2001: Chuyến Du Hành Không Gian,149.0,Adventure,Stanley Kubrick,1968.0
+94,Cuộc Săn Lùng,115.0,Drama,Thomas Vinterberg,2012.0
+95,Những Kẻ Phản Bội,99.0,Crime,Quentin Tarantino,1992.0
+96,Ikiru,143.0,Drama,Akira Kurosawa,1952.0
+97,Lawrence Xứ Ả Rập,218.0,Adventure,David Lean,1962.0
+98,Căn Hộ Tình Yêu,125.0,Comedy,Billy Wilder,1960.0
+99,Công Dân Kane,119.0,Drama,Orson Welles,1941.0
+100,M - Eine Stadt sucht einen Mörder,117.0,Crime,Fritz Lang,1931.0
+101,Bắc Tây Bắc,136.0,Action,Alfred Hitchcock,1959.0
+102,Quay Cuồng,128.0,Mystery,Alfred Hitchcock,1958.0
+103,Double Indemnity,107.0,Crime,Billy Wilder,1944.0
+104,Le fabuleux destin d'Amélie Poulain,122.0,Comedy,Jean-Pierre Jeunet,2001.0
+105,Ông Trùm Mặt Sẹo,170.0,Crime,Brian De Palma,1983.0
+106,Áo Giắp Sắt,116.0,Drama,Stanley Kubrick,1987.0
+107,Tìm Tung Tích Mẹ,131.0,Drama,Denis Villeneuve,2010.0
+108,Cỗ Máy Tội Phạm,136.0,Crime,Stanley Kubrick,1971.0
+109,Kỳ Phùng Địch Thủ,170.0,Action,Michael Mann,1995.0
+110,Vút Bay,96.0,Animation,Pete Docter,2009.0
+111,Giết Con Chim Nhại,129.0,Crime,Robert Mulligan,1962.0
+112,The Sting,129.0,Comedy,George Roy Hill,1973.0
+113,Anh Hùng Hamilton,160.0,Biography,Thomas Kail,2020.0
+114,Cuộc Chia Ly,123.0,Drama,Asghar Farhadi,2011.0
+115,Indiana Jones Và Cuộc Thập Tự Chinh Cuối Cùng,127.0,Action,Steven Spielberg,1989.0
+116,Thành Phố Trung Tâm,153.0,Drama,Fritz Lang,1927.0
+117,Đương Đầu Với Thử Thách,132.0,Action,John McTiernan,1988.0
+118,Cậu Bé Đặc Biệt,162.0,Drama,Aamir Khan,2007.0
+119,Tên Trộm Nữ Trang,104.0,Comedy,Guy Ritchie,2000.0
+120,Kẻ Cắp Xe Đạp,89.0,Drama,Vittorio De Sica,1948.0
+121,Bí Mật Los Angeles,138.0,Crime,Curtis Hanson,1997.0
+122,Thế Chiến 1917,119.0,Action,Sam Mendes,2019.0
+123,Tài Xế Taxi,114.0,Crime,Martin Scorsese,1976.0
+124,Ngày Tàn Của Hitler,156.0,Biography,Oliver Hirschbiegel,2004.0
+125,Dangal,161.0,Action,Nitesh Tiwari,2016.0
+126,Thêm Vài Đồng Xu Lẻ,132.0,Drama,Sergio Leone,1965.0
+127,Người Dơi Xuất Hiện,140.0,Action,Christopher Nolan,2005.0
+128,Phi Công Siêu Đẳng Maverick,130.0,Action,Joseph Kosinski,2022.0
+129,Some Like It Hot,121.0,Comedy,Billy Wilder,1959.0
+130,Đứa Trẻ,68.0,Comedy,Charles Chaplin,1921.0
+131,Sói Già Phố Wall,180.0,Biography,Martin Scorsese,2013.0
+132,The Father,97.0,Drama,Florian Zeller,2020.0
+133,Cẩm Nang Xanh,130.0,Biography,Peter Farrelly,2018.0
+134,All About Eve,138.0,Drama,Joseph L. Mankiewicz,1950.0
+135,Tòa Án Chiến Tranh,179.0,Drama,Stanley Kramer,1961.0
+136,Buổi Diễn Của Truman,103.0,Comedy,Peter Weir,1998.0
+137,Máu Sẽ Phải Đổ,158.0,Drama,Paul Thomas Anderson,2007.0
+138,Sòng Bạc,178.0,Crime,Martin Scorsese,1995.0
+139,Đảo Kinh Hoàng,138.0,Mystery,Martin Scorsese,2010.0
+140,Lãnh Chúa Hidetora,160.0,Action,Akira Kurosawa,1985.0
+141,Mê Cung Của Pan,118.0,Drama,Guillermo del Toro,2006.0
+142,Công Viên Kỷ Jura,127.0,Action,Steven Spielberg,1993.0
+143,Giác Quan Thứ Sáu,107.0,Drama,M. Night Shyamalan,1999.0
+144,Không Thể Tha Thứ,130.0,Drama,Clint Eastwood,1992.0
+145,Một Tâm Hồn Đẹp,135.0,Biography,Ron Howard,2001.0
+146,Không Chốn Dung Thân,122.0,Crime,Ethan Coen,2007.0
+147,Kho Báu Ở Sierra Madre,126.0,Adventure,John Huston,1948.0
+148,Yôjinbô,110.0,Action,Akira Kurosawa,1961.0
+149,Cô Dâu Báo Thù 1,111.0,Action,Quentin Tarantino,2003.0
+150,Quái Vật Biến Hình,109.0,Horror,John Carpenter,1982.0
+151,Chén Thánh Phiêu Lưu Ký,91.0,Adventure,Terry Gilliam,1975.0
+152,Cuộc Đào Thoát Vĩ Đại,172.0,Adventure,John Sturges,1963.0
+153,Đi Tìm Nemo,100.0,Animation,Andrew Stanton,2003.0
+154,Lã Sinh Môn,88.0,Crime,Akira Kurosawa,1950.0
+155,Người Voi,124.0,Biography,David Lynch,1980.0
+156,Phố Tàu,130.0,Drama,Roman Polanski,1974.0
+157,Lâu Đài Di Động Của Howl,119.0,Animation,Hayao Miyazaki,2004.0
+158,Cuộc Gọi Chết Người,105.0,Crime,Alfred Hitchcock,1954.0
+159,Cuốn Theo Chiều Gió,238.0,Drama,Victor Fleming,1939.0
+160,Chiến Binh Tự Do,132.0,Action,James McTeigue,2005.0
+161,Lần Theo Dấu Vết,153.0,Crime,Denis Villeneuve,2013.0
+162,Bò Đực Nổi Điên,129.0,Biography,Martin Scorsese,1980.0
+163,Băng Đảng Người Anh,107.0,Action,Guy Ritchie,1998.0
+164,Bí Mật Sau Ánh Mắt,129.0,Drama,Juan José Campanella,2009.0
+165,Những Mảnh Ghép Cảm Xúc,95.0,Animation,Pete Docter,2015.0
+166,Người Nhện: Không Còn Nhà,148.0,Action,Jon Watts,2021.0
+167,Three Billboards: Truy Tìm Công Lý,115.0,Comedy,Martin McDonagh,2017.0
+168,Lối Sống Đồi Trụy,93.0,Drama,Danny Boyle,1996.0
+169,Cầu Sông Kwai,161.0,Adventure,David Lean,1957.0
+170,Thị Trấn Fargo,98.0,Crime,Joel Coen,1996.0
+171,Chiến Binh Quyền Anh,140.0,Action,Gavin O'Connor,2011.0
+172,Hãy Bắt Tôi Nếu Có Thể,141.0,Biography,Steven Spielberg,2002.0
+173,Ngọt Và Đắng,116.0,Drama,Clint Eastwood,2008.0
+174,Klaus - Câu Chuyện Giáng Sinh,96.0,Animation,Sergio Pablos,2019.0
+175,Hàng Xóm Của Tôi Là Totoro,86.0,Animation,Hayao Miyazaki,1988.0
+176,Million Dollar Baby,132.0,Drama,Clint Eastwood,2004.0
+177,Harry Potter và Bảo Bối Tử Thần: Phần 2,130.0,Adventure,David Yates,2011.0
+178,Những Đứa Trẻ Thiên Đường,89.0,Drama,Majid Majidi,1997.0
+179,Tội Phạm Nhân Bản,117.0,Action,Ridley Scott,1982.0
+180,12 Năm Nô Lệ,134.0,Biography,Steve McQueen,2013.0
+181,Before Sunrise,101.0,Drama,Richard Linklater,1995.0
+182,Khách Sạn Đế Vương,99.0,Adventure,Wes Anderson,2014.0
+183,Ben-Hur: Truyền Thuyết Đức Chúa Trời,212.0,Adventure,William Wyler,1959.0
+184,Cuộc Săn Vàng,95.0,Adventure,Charles Chaplin,1925.0
+185,Barry Lyndon,185.0,Adventure,Stanley Kubrick,1975.0
+186,Cô Gái Mất Tích,149.0,Drama,David Fincher,2014.0
+187,Người Hùng Không Súng,139.0,Biography,Mel Gibson,2016.0
+188,In the Name of the Father,133.0,Biography,Jim Sheridan,1993.0
+189,On the Waterfront,108.0,Crime,Elia Kazan,1954.0
+190,Hồi Ức Kẻ Sát Nhân,131.0,Crime,Bong Joon Ho,2003.0
+191,Xe Lửa Tình Yêu,78.0,Action,Clyde Bruckman,1926.0
+192,Kẻ Săn Hươu,183.0,Drama,Michael Cimino,1978.0
+193,Relatos salvajes,122.0,Comedy,Damián Szifron,2014.0
+194,Smultronstället,91.0,Drama,Ingmar Bergman,1957.0
+195,Hội Cố Thi Nhân,128.0,Comedy,Peter Weir,1989.0
+196,Người Thứ Ba,104.0,Film-Noir,Carol Reed,1949.0
+197,Le salaire de la peur,131.0,Adventure,Henri-Georges Clouzot,1953.0
+198,Max Điên: Con Đường Tử Thần,120.0,Action,George Miller,2015.0
+199,Sherlock Jr.,45.0,Action,Buster Keaton,1924.0
+200,Công Ty Quái Vật,92.0,Animation,Pete Docter,2001.0
+201,Mr. Smith Goes to Washington,129.0,Comedy,Frank Capra,1939.0
+202,Hàm Cá Mập,124.0,Adventure,Steven Spielberg,1975.0
+203,Bí Kíp Luyện Rồng,98.0,Animation,Dean DeBlois,2010.0
+204,Mary Và Max,92.0,Animation,Adam Elliot,2009.0
+205,Cuộc Đua Lịch Sử,152.0,Action,James Mangold,2019.0
+206,Phong Ấn Thứ Bảy,96.0,Drama,Ingmar Bergman,1957.0
+207,Room,118.0,Drama,Lenny Abrahamson,2015.0
+208,Bá Tước Lebowski,117.0,Comedy,Joel Coen,1998.0
+209,Chú Chuột Đầu Bếp,111.0,Animation,Brad Bird,2007.0
+210,Câu Chuyện Tokyo,136.0,Drama,Yasujirô Ozu,1953.0
+211,Tay Đấm Huyền Thoại,120.0,Drama,John G. Avildsen,1976.0
+212,Khách Sạn Rwanda,121.0,Biography,Terry George,2004.0
+213,Logan: Người Sói,137.0,Action,James Mangold,2017.0
+214,Tiêu Điểm,129.0,Biography,Tom McCarthy,2015.0
+215,Trung Đội,120.0,Drama,Oliver Stone,1986.0
+216,Bài Ca Khổ Hình Của Joan of Arc,110.0,Biography,Carl Theodor Dreyer,1928.0
+217,Kẻ Hủy Diệt,107.0,Action,James Cameron,1984.0
+218,Jai Bhim,164.0,Crime,T.J. Gnanavel,2021.0
+219,Trước Lúc Hoàng Hôn,80.0,Drama,Richard Linklater,2004.0
+220,Đường Đua Nghẹt Thở,123.0,Action,Ron Howard,2013.0
+221,Network,121.0,Drama,Sidney Lumet,1976.0
+222,The Best Years of Our Lives,170.0,Drama,William Wyler,1946.0
+223,Quỷ Ám,122.0,Horror,William Friedkin,1973.0
+224,Hãy Đứng Bên Tôi,89.0,Adventure,Rob Reiner,1986.0
+225,La haine,98.0,Crime,Mathieu Kassovitz,1995.0
+226,Cướp Biển Vùng Caribê: Lời Nguyền Của Tàu Ngọc Trai Đen,143.0,Action,Gore Verbinski,2003.0
+227,Phù Thủy Xứ Oz,102.0,Adventure,Victor Fleming,1939.0
+228,Gia Đình Siêu Nhân,115.0,Animation,Brad Bird,2004.0
+229,Về Với Thiên Nhiên,148.0,Adventure,Sean Penn,2007.0
+230,Hachiko: Chú Chó Trung Thành,93.0,Biography,Lasse Hallström,2009.0
+231,To Be or Not to Be,99.0,Comedy,Ernst Lubitsch,1942.0
+232,Người Hầu Gái,145.0,Drama,Park Chan-wook,2016.0
+233,Cha Và Con Của Tôi,112.0,Drama,Çagan Irmak,2005.0
+234,La battaglia di Algeri,121.0,Drama,Gillo Pontecorvo,1966.0
+235,Ngày Chuột Chũi,101.0,Comedy,Harold Ramis,1993.0
+236,The Grapes of Wrath,129.0,Drama,John Ford,1940.0
+237,Amores perros,154.0,Drama,Alejandro G. Iñárritu,2000.0
+238,Giai Điệu Hạnh Phúc,172.0,Biography,Robert Wise,1965.0
+239,Rebecca,130.0,Drama,Alfred Hitchcock,1940.0
+240,Cool Hand Luke,127.0,Crime,Stuart Rosenberg,1967.0
+241,Người Máy Khổng Lồ,86.0,Animation,Brad Bird,1999.0
+242,Pather Panchali,125.0,Drama,Satyajit Ray,1955.0
+243,Người Giúp Việc,146.0,Drama,Tate Taylor,2011.0
+244,Chuyện Xảy Ra Trong Đêm,105.0,Comedy,Frank Capra,1934.0
+245,400 Cú Đấm,99.0,Crime,François Truffaut,1959.0
+246,Aladdin,90.0,Animation,Ron Clements,1992.0
+247,Khiêu Vũ Với Bầy Sói,181.0,Adventure,Kevin Costner,1990.0
+248,Gangs of Wasseypur,321.0,Action,Anurag Kashyap,2012.0
+249,Cuộc Sống Của Brian,94.0,Comedy,Terry Jones,1979.0
+250,Leave No Trace,108.0,Drama,DebraGranik,2018.0
+251,Toy Story 2,92.0,Kids & Family,"AshBrannon,JohnLasseter",1999.0
+252,Man on Wire,90.0,Documentary,JamesMarsh,2008.0
+253,Honeyland,85.0,Documentary,"LjuboStefanov,TamaraKotevska",2019.0
+254,Sound City,108.0,Documentary,DaveGrohl,2013.0
+255,Minding the Gap,93.0,Documentary,BingLiu,2018.0
+256,His House,93.0,Horror,RemiWeekes,2020.0
+257,The Philadelphia Story,112.0,Romance,GeorgeCukor,1940.0
+258,Crip Camp,107.0,Documentary,"JamesLebrecht,NicoleNewnham",2020.0
+259,76 Days,93.0,Documentary,"HaoWu,WeixiChen",2021.0
+260,Summer 1993,98.0,Drama,CarlaSimón,2018.0
+261,Toy Story,80.0,Kids & Family,JohnLasseter,1995.0
+262,The Tale of the Princess Kaguya,137.0,Fantasy,IsaoTakahata,2014.0
+263,One Cut of the Dead,96.0,Comedy,ShinichiroUeda,2019.0
+264,Rewind,86.0,Documentary,SashaNeulinger,2020.0
+265,Taxi to the Dark Side,106.0,Documentary,AlexGibney,2008.0
+266,Welcome to Chechnya,107.0,Documentary,DavidFrance,2020.0
+267,Hive,84.0,Drama,BlertaBasholli,2021.0
+268,Deliver Us From Evil,103.0,Documentary,AmyBerg,2006.0
+269,Poetry,139.0,Drama,LeeChang-dong,2012.0
+270,Waste Land,98.0,Documentary,"LucyWalker,KarenHarley",2010.0
+271,The Square,105.0,Mystery & Thriller,NashEdgerton,2010.0
+272,Coup 53,118.0,Documentary,TaghiAmirani,2020.0
+273,The Terminator,108.0,Sci-Fi,JamesCameron,1984.0
+274,The Janes,101.0,Documentary,"TiaLessin,EmmaPildes",2022.0
+275,Laura,90.0,Drama,JohnLlewellynMoxey,
+276,Stop Making Sense,88.0,Documentary,JonathanDemme,1984.0
+277,Stalker,,,UnknownDirector,
+278,Playground,10.0,Drama,GuenMurroni,
+279,Afghan Star,88.0,Documentary,HavanaMarking,2009.0
+280,Slalom,92.0,Drama,CharlèneFavier,2021.0
+281,Pinocchio,108.0,Kids & Family,RobertoBenigni,2002.0
+282,Local Hero,110.0,Comedy,BillForsyth,1983.0
+283,The Black Pirate,84.0,Adventure,AlbertParker,1926.0
+284,Only Yesterday,118.0,Drama,IsaoTakahata,2019.0
+285,Merci Docteur Rey,91.0,Comedy,AndrewLitvack,2002.0
+286,Athlete A,103.0,Documentary,"BonniCohen,JonShenk",2020.0
+287,Tampopo,114.0,Comedy,JuzoItami,1986.0
+288,The Work,87.0,Documentary,"JairusMcLeary,GethinAldous",2017.0
+289,Cool Hand Luke,129.0,Drama,StuartRosenberg,1967.0
+290,Last Train Home,97.0,Adventure,RandyBradshaw,
+291,One Missed Call,87.0,Horror,ÉricValette,2008.0
+292,Left Behind: The Movie,,,VicSarin,
+293,A Thousand Words,91.0,Comedy,BrianRobbins,2012.0
+294,Gotti,116.0,Drama,RobertHarmon,
+295,The Last Days of American Crime,149.0,Action,OlivierMegaton,2020.0
+296,Jaws the Revenge,89.0,Mystery & Thriller,JosephSargent,1987.0
+297,The Ridiculous 6,119.0,Comedy,FrankCoraci,2017.0
+298,Dark Crimes,92.0,Crime,AlexandrosAvranas,2018.0
+299,Stratton,95.0,Action,SimonWest,2018.0
+300,London Fields,118.0,Mystery & Thriller,MathewCullen,2018.0
+301,Return to the Blue Lagoon,102.0,Romance,WilliamGraham,2011.0
+302,Problem Child,81.0,Comedy,DennisDugan,2015.0
+303,Cabin Fever,102.0,Comedy,MonaJ.Hoel,2016.0
+304,Staying Alive,96.0,Drama,SylvesterStallone,2013.0
+305,The Disappointments Room,92.0,Horror,D.J.Caruso,2016.0
+306,Redline,95.0,Action,AndyCheng,2007.0
+307,Homecoming,88.0,Horror,MorganJ.Freeman,2009.0
+308,Killing Me Softly,100.0,Mystery & Thriller,ChenKaige,2002.0
+309,Scar,92.0,Horror,RahilBhorania,
+310,Beneath the Darkness,97.0,Mystery & Thriller,MartinGuigui,2012.0
+311,Max Steel,92.0,Sci-Fi,StewartHendler,2016.0
+312,Cabin Fever,102.0,Comedy,MonaJ.Hoel,2016.0
+313,Simon Sez,82.0,Action,KevinAlynElders,1999.0
+314,Constellation,105.0,Drama,JordanWalker-Pearlman,2007.0
+315,Stolen,90.0,Documentary,RebeccaDreyfus,
+316,Derailed,107.0,Mystery & Thriller,MikaelHåfström,2005.0
+317,Dark Tide,93.0,Mystery & Thriller,LucaBercovici,
+318,Wagons East!,106.0,Comedy,PeterMarkle,2013.0
+319,Folks!,106.0,Comedy,TedKotcheff,
